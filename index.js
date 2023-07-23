@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "ẤN VÀO HỘP QUÀ ĐI NHOA 😘" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "hế nhô" //Lời mở đầu cho bức thư
 const mainContentLetter = "CHÚC MỪNG SINH NHẬT" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
